@@ -11,5 +11,6 @@ public class MyMain {
 		System.out.println("The first result whose value must spell out NEGATIVE is:  "+ result);
 		System.out.println("The first result whose value must spell out POSITIVE is:  "+ result2);
 		System.out.println("The first result whose value must spell out ZERO is:  "+ result3);
+		result3 = m.biggerThanZero(399, -399);
 	}
 }
